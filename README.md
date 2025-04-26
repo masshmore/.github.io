@@ -61,8 +61,8 @@
 <body>
 
   <header>
-    <h1>[Your Name]</h1>
-    <p>Entrepreneur • Automotive Specialist • Investor</p>
+    <h1>[Matt Ashmore]</h1>
+    <p>Entrepreneur • Automotive Specialist • Entrepreneur </p>
   </header>
 
   <section id="about">
